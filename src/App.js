@@ -1,23 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Footer from './components/Footer';
+import HomePage from './components/Homepage';
+import Navbar from './components/Navbar';
+import {Route, Routes } from 'react-router-dom';
+import Ukraine from './components/Ukraine';
+import Europe from './components/Europe';
+import USA from './components/USA';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      
+      
+      <Routes>
+        <Route path='/' element={<HomePage />}></Route>
+        <Route path='/ukraine' element={<Ukraine />}></Route>
+        <Route path='/europe' element={<Europe />}></Route>
+        <Route path='/usa' element={<USA />}></Route>
+      </Routes>
+
+      <Footer />
     </div>
   );
 }

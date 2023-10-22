@@ -1,0 +1,30 @@
+.usa-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.usa-header {
+    font-size: 7rem;
+    -webkit-text-stroke: 2px black;
+    background-image: url("../../public/1200px-Flag_of_the_United_States.svg.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex: 1;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.usa-about {
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.usa-about > p {
+    width: 50%;
+}

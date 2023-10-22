@@ -1,0 +1,30 @@
+.europe-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.europe-header {
+    font-size: 7rem;
+    -webkit-text-stroke: 2px black;
+    background-image: url("../../public/Flag_of_Europe.svg.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex: 1;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.europe-about {
+    margin: 30px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.europe-about > p {
+    width: 50%;
+}
