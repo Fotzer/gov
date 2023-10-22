@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.826cdf11.css",
-    "main.js": "/your-repo-name/static/js/main.bc049aa1.js",
-    "static/js/787.8f31d6a9.chunk.js": "/your-repo-name/static/js/787.8f31d6a9.chunk.js",
-    "static/media/Right-to-Learn-Photo.jpg": "/your-repo-name/static/media/Right-to-Learn-Photo.1d2215d0063c7bb75aee.jpg",
-    "static/media/Flag_of_Europe.svg.png": "/your-repo-name/static/media/Flag_of_Europe.svg.015efd81a21bb7f1e637.png",
-    "index.html": "/your-repo-name/index.html",
-    "main.826cdf11.css.map": "/your-repo-name/static/css/main.826cdf11.css.map",
-    "main.bc049aa1.js.map": "/your-repo-name/static/js/main.bc049aa1.js.map",
-    "787.8f31d6a9.chunk.js.map": "/your-repo-name/static/js/787.8f31d6a9.chunk.js.map"
+    "main.css": "/gov/static/css/main.787af998.css",
+    "main.js": "/gov/static/js/main.8898538c.js",
+    "static/js/787.8f31d6a9.chunk.js": "/gov/static/js/787.8f31d6a9.chunk.js",
+    "static/media/Right-to-Learn-Photo.jpg": "/gov/static/media/Right-to-Learn-Photo.1d2215d0063c7bb75aee.jpg",
+    "static/media/Flag_of_Europe.svg.png": "/gov/static/media/Flag_of_Europe.svg.015efd81a21bb7f1e637.png",
+    "index.html": "/gov/index.html",
+    "main.787af998.css.map": "/gov/static/css/main.787af998.css.map",
+    "main.8898538c.js.map": "/gov/static/js/main.8898538c.js.map",
+    "787.8f31d6a9.chunk.js.map": "/gov/static/js/787.8f31d6a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.826cdf11.css",
-    "static/js/main.bc049aa1.js"
+    "static/css/main.787af998.css",
+    "static/js/main.8898538c.js"
   ]
 }
