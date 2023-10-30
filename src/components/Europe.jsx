@@ -10,7 +10,7 @@ function Europe() {
 
         <div className="europe-about"> 
 
-        <Entry title="ageUK" title_href="https://www.u3a.org.uk/">
+        <Entry title="u3a.org.uk" title_href="https://www.u3a.org.uk/">
             <p>u3a is a UK-wide collection of 1000+ charities that provide the opportunity for those no longer in work to come together and learn for fun.</p>
         </Entry>
 
