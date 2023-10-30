@@ -28,3 +28,9 @@
 .homepage-about > p {
     width: 50%;
 }
+
+@media screen and (max-width: 800px) {
+    .homepage-header {
+        font-size: 3rem;
+    }
+}

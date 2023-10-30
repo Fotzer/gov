@@ -28,3 +28,9 @@
 .ukraine-about > p {
     width: 50%;
 }
+
+@media screen and (max-width: 800px) {
+    .ukraine-header {
+        font-size: 3rem;
+    }
+}
