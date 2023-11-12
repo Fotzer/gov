@@ -24,6 +24,22 @@
     padding-bottom: 3px;
 }
 
+.navbar_language.first {
+    margin-left: auto;
+}
+
+.navbar_language {
+    margin-right: 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.navbar_language.underline {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
 @media screen and (max-width: 400px) {
     .navbar-content {
         flex-direction: column;

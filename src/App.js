@@ -6,19 +6,22 @@ import {Navigate, Route, Routes } from 'react-router-dom';
 import Ukraine from './components/Ukraine';
 import Europe from './components/Europe';
 import USA from './components/USA';
+import { useState } from 'react';
 
 function App() {
+  const [uaLanguage, setUaLanguage] = useState(true)
+
   return (
     <div className="App">
-      <Navbar />
+      <Navbar setLanguage_ua={setUaLanguage} language_ua={uaLanguage}/>
       
       
       <Routes>
-        <Route path='/' element={<HomePage />}></Route>
+        <Route path='/' element={<HomePage language_ua={uaLanguage} />}></Route>
         <Route path='/gov/' element={<Navigate to="/" />}></Route>
-        <Route path='/ukraine' element={<Ukraine />}></Route>
-        <Route path='/europe' element={<Europe />}></Route>
-        <Route path='/usa' element={<USA />}></Route>
+        <Route path='/ukraine' element={<Ukraine language_ua={uaLanguage} />}></Route>
+        <Route path='/europe' element={<Europe language_ua={uaLanguage} />}></Route>
+        <Route path='/usa' element={<USA language_ua={uaLanguage} />}></Route>
       </Routes>
 
       <Footer />
