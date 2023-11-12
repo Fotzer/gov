@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gov/static/css/main.36a47451.css",
+    "main.css": "/gov/static/css/main.42151a7a.css",
     "main.js": "/gov/static/js/main.f6eba7a1.js",
     "static/js/787.8f31d6a9.chunk.js": "/gov/static/js/787.8f31d6a9.chunk.js",
     "static/media/Right-to-Learn-Photo.jpg": "/gov/static/media/Right-to-Learn-Photo.37a655a4a8dfae2714c2.jpg",
     "static/media/Flag_of_Europe.svg.png": "/gov/static/media/Flag_of_Europe.svg.015efd81a21bb7f1e637.png",
     "index.html": "/gov/index.html",
-    "main.36a47451.css.map": "/gov/static/css/main.36a47451.css.map",
+    "main.42151a7a.css.map": "/gov/static/css/main.42151a7a.css.map",
     "main.f6eba7a1.js.map": "/gov/static/js/main.f6eba7a1.js.map",
     "787.8f31d6a9.chunk.js.map": "/gov/static/js/787.8f31d6a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36a47451.css",
+    "static/css/main.42151a7a.css",
     "static/js/main.f6eba7a1.js"
   ]
 }
