@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/gov/static/css/main.87b4ea0a.css",
-    "main.js": "/gov/static/js/main.5cc204cc.js",
+    "main.css": "/gov/static/css/main.9a09b59f.css",
+    "main.js": "/gov/static/js/main.a8ed8f09.js",
     "static/js/787.d91c5eb5.chunk.js": "/gov/static/js/787.d91c5eb5.chunk.js",
     "static/media/Right-to-Learn-Photo.jpg": "/gov/static/media/Right-to-Learn-Photo.37a655a4a8dfae2714c2.jpg",
+    "static/media/dualingo-image.png": "/gov/static/media/dualingo-image.f2a2e608c854822ad256.png",
     "static/media/Flag_of_Europe.svg.png": "/gov/static/media/Flag_of_Europe.svg.015efd81a21bb7f1e637.png",
     "index.html": "/gov/index.html",
-    "main.87b4ea0a.css.map": "/gov/static/css/main.87b4ea0a.css.map",
-    "main.5cc204cc.js.map": "/gov/static/js/main.5cc204cc.js.map",
+    "main.9a09b59f.css.map": "/gov/static/css/main.9a09b59f.css.map",
+    "main.a8ed8f09.js.map": "/gov/static/js/main.a8ed8f09.js.map",
     "787.d91c5eb5.chunk.js.map": "/gov/static/js/787.d91c5eb5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87b4ea0a.css",
-    "static/js/main.5cc204cc.js"
+    "static/css/main.9a09b59f.css",
+    "static/js/main.a8ed8f09.js"
   ]
 }
