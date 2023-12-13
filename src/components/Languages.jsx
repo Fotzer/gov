@@ -1,7 +1,7 @@
 import './Languages.css';
 import Entry from './Entry';
 
-function Survey(props) {
+function Languages(props) {
   return (
     <div className="languages-content">
         <div className="languages-header">
