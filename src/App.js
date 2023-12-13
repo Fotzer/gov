@@ -6,6 +6,8 @@ import {Navigate, Route, Routes } from 'react-router-dom';
 import Ukraine from './components/Ukraine';
 import Europe from './components/Europe';
 import USA from './components/USA';
+import Survey from './components/Survey';
+
 import { useState } from 'react';
 
 function App() {
@@ -22,6 +24,7 @@ function App() {
         <Route path='/ukraine' element={<Ukraine language_ua={uaLanguage} />}></Route>
         <Route path='/europe' element={<Europe language_ua={uaLanguage} />}></Route>
         <Route path='/usa' element={<USA language_ua={uaLanguage} />}></Route>
+        <Route path='/survey' element={<Survey language_ua={uaLanguage} />}></Route>
       </Routes>
 
       <Footer />
