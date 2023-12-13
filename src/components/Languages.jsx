@@ -19,4 +19,4 @@ function Languages(props) {
   );
 }
 
-export default Survey;
+export default Languages;
